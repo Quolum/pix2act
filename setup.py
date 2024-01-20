@@ -25,7 +25,7 @@ setuptools.setup(
             "selenium==4.0.0",
             "absl-py",
             "gin-config",
-            "t5x @ git+https://github.com/Quolum/t5x.git#9769393ca9f9923e17ec2f053a4b46b2192fdf53",
+            "t5x @ git+https://github.com/Quolum/t5x.git",
             "flaxformer @ git+https://github.com/google/flaxformer",
             "pycocoevalcap",
             "apache-beam",
